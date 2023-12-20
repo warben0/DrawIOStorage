@@ -1,38 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T08:57:55.683Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="jr2g3xz7zULOr2-oMCi6" version="22.1.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-20T12:44:03.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="xTEr3QWHLaGXbO72msk8" version="22.1.11" type="github" pages="2">
   <diagram name="OT Devices" id="g6pCnC2517unMUTT8DBq">
-    <mxGraphModel dx="700" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1000" dy="596" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
-        <mxCell id="1" value="Devices" parent="0" />
-        <mxCell id="dUnbWV-s_Z6cjGVIv-td-6" value="" style="shape=mxgraph.rack.apc.apc_smart_ups_5000_va_5u;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;container=0;" vertex="1" parent="1">
-          <mxGeometry x="318.75" y="140" width="150.25" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dUnbWV-s_Z6cjGVIv-td-8" value=" Device Names" parent="0" />
-        <mxCell id="dUnbWV-s_Z6cjGVIv-td-9" value="&lt;span style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;TOC1&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Verdana;container=0;" vertex="1" parent="dUnbWV-s_Z6cjGVIv-td-8">
-          <mxGeometry x="200" y="149" width="109" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="dUnbWV-s_Z6cjGVIv-td-10" value="Device Types" parent="0" />
-        <mxCell id="dUnbWV-s_Z6cjGVIv-td-13" value="&lt;span style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Generic PC&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Verdana;container=0;" vertex="1" parent="dUnbWV-s_Z6cjGVIv-td-10">
-          <mxGeometry x="200" y="169" width="109" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="dUnbWV-s_Z6cjGVIv-td-11" value="Device Versioning" parent="0" />
-        <mxCell id="dUnbWV-s_Z6cjGVIv-td-12" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;MS Win. Serv. 2016 STD&lt;br&gt;V 10.0.1.14393&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=left;fontFamily=Verdana;container=0;" vertex="1" parent="dUnbWV-s_Z6cjGVIv-td-11">
-          <mxGeometry x="180" y="100" width="190" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dUnbWV-s_Z6cjGVIv-td-14" value="IE Networking" parent="0" />
-        <mxCell id="8qjVw2z6zQvmKTunRlAq-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="dUnbWV-s_Z6cjGVIv-td-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="353.80952380952374" y="260" as="targetPoint" />
-            <mxPoint x="354" y="190" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dUnbWV-s_Z6cjGVIv-td-15" value="IE Networking Labels" parent="0" />
-        <mxCell id="dUnbWV-s_Z6cjGVIv-td-16" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;192.168.120.95&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=8;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Verdana;container=0;" vertex="1" parent="dUnbWV-s_Z6cjGVIv-td-15">
-          <mxGeometry x="319" y="180" width="70" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="8qjVw2z6zQvmKTunRlAq-5" value="VLAN 400&lt;br&gt;&amp;lt;switch tag&amp;gt;:&amp;lt;port&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="dUnbWV-s_Z6cjGVIv-td-15">
-          <mxGeometry x="353.85012065227806" y="257.32614431133584" as="geometry" />
-        </mxCell>
+        <mxCell id="8qjVw2z6zQvmKTunRlAq-6" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
