@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T08:40:22.732Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="He6JuWeceO26v16rYlu_" version="22.1.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-20T08:42:35.956Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="dsryhMcZUhqcKHc6WFDn" version="22.1.11" type="github" pages="2">
   <diagram name="OT Devices" id="g6pCnC2517unMUTT8DBq">
-    <mxGraphModel dx="875" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" value="Devices" parent="0" />
@@ -20,14 +20,18 @@
           <mxGeometry x="180" y="100" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dUnbWV-s_Z6cjGVIv-td-14" value="IE Networking" parent="0" />
-        <mxCell id="dUnbWV-s_Z6cjGVIv-td-15" value="IE Networking Labels" parent="0" />
-        <mxCell id="dUnbWV-s_Z6cjGVIv-td-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="dUnbWV-s_Z6cjGVIv-td-15" source="dUnbWV-s_Z6cjGVIv-td-16">
+        <mxCell id="8qjVw2z6zQvmKTunRlAq-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="dUnbWV-s_Z6cjGVIv-td-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="353.80952380952374" y="260" as="targetPoint" />
+            <mxPoint x="354" y="190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dUnbWV-s_Z6cjGVIv-td-15" value="IE Networking Labels" parent="0" />
         <mxCell id="dUnbWV-s_Z6cjGVIv-td-16" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;192.168.120.95&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=8;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Verdana;container=0;" vertex="1" parent="dUnbWV-s_Z6cjGVIv-td-15">
           <mxGeometry x="319" y="180" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8qjVw2z6zQvmKTunRlAq-5" value="VLAN 400&lt;br&gt;&amp;lt;switch tag&amp;gt;:&amp;lt;port&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="dUnbWV-s_Z6cjGVIv-td-15">
+          <mxGeometry x="353.85012065227806" y="257.32614431133584" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
