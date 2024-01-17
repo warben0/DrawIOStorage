@@ -54,5 +54,12 @@
     "h": 102,
     "aspect": "fixed",
     "title": "Flow Transmitter"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"?\" style=\"rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"60\" width=\"40\" height=\"55\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"Text\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;points=[];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"-5.684341886080802e-14\" y=\"6\" width=\"60\" height=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"&amp;amp;lt;type&amp;amp;gt;\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;points=[];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"-5.684341886080802e-14\" y=\"26\" width=\"60\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"&amp;amp;lt;addressering&amp;amp;gt;\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;points=[];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"-5.684341886080802e-14\" y=\"36\" width=\"60\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 100.00000000000001,
+    "h": 54.99999999999995,
+    "aspect": "fixed",
+    "title": "Ukjent Objekt"
   }
 ]</mxlibrary>
