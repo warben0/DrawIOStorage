@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T14:40:06.409Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="tB7rj1W27N5w6gVucvPa" version="22.1.21" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2024-01-24T14:41:02.362Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="pZWzjwGjzuS2cu7dQR2J" version="22.1.21" type="github" pages="22">
   <diagram id="srSarf_iVMtm-178fV4I" name="INFO">
     <mxGraphModel dx="1838" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1390,7 +1390,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="433" name="433 Lilla1">
-    <mxGraphModel dx="868" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3124" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
@@ -1407,24 +1407,24 @@
         </mxCell>
         <mxCell id="a0maMhaBaUDwIj2a7DxU-1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#7f00ff;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;jumpStyle=gap;endFill=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="870" y="1550" as="targetPoint" />
-            <mxPoint x="870" y="1650" as="sourcePoint" />
+            <mxPoint x="1346" y="1710" as="targetPoint" />
+            <mxPoint x="1346" y="1810" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <object label="Node 12" link="data:action/json,{&quot;actions&quot;:[{&quot;open&quot;:&quot;data:page/id,450&quot;},{&quot;highlight&quot;:{&quot;cells&quot;:[&quot;12-433&quot;],&quot;opacity&quot;:100,&quot;color&quot;:&quot;red&quot;}}]}" id="12">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fillColor=none;strokeColor=#CC0000;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="840" y="1650" width="54" height="30" as="geometry" />
+            <mxGeometry x="1316" y="1810" width="54" height="30" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="EZRB-Zx1nuC-1gXneQuX-12" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#7f00ff;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;jumpStyle=gap;endFill=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1360" y="1550" as="targetPoint" />
-            <mxPoint x="1360" y="1650" as="sourcePoint" />
+            <mxPoint x="390" y="1330" as="targetPoint" />
+            <mxPoint x="390" y="1430" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <object label="Node 14" link="data:action/json,{&quot;actions&quot;:[{&quot;open&quot;:&quot;data:page/id,450&quot;},{&quot;highlight&quot;:{&quot;cells&quot;:[&quot;14-433&quot;],&quot;opacity&quot;:100,&quot;color&quot;:&quot;red&quot;}}]}" id="14">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fillColor=none;strokeColor=#CC0000;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="1330" y="1650" width="54" height="30" as="geometry" />
+            <mxGeometry x="360" y="1430" width="54" height="30" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="EZRB-Zx1nuC-1gXneQuX-14" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#7F00FF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;jumpStyle=gap;endFill=0;strokeWidth=2;" edge="1" parent="1">
@@ -1451,13 +1451,13 @@
         </object>
         <mxCell id="0MjJynL3gU6qYlFHBPNd-19" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#7f00ff;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;jumpStyle=gap;endFill=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="70" y="1550" as="targetPoint" />
-            <mxPoint x="70" y="1650" as="sourcePoint" />
+            <mxPoint x="250" y="1330" as="targetPoint" />
+            <mxPoint x="250" y="1430" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <object label="Node 46" link="data:action/json,{&quot;actions&quot;:[{&quot;open&quot;:&quot;data:page/id,450&quot;},{&quot;highlight&quot;:{&quot;cells&quot;:[&quot;46-433&quot;],&quot;opacity&quot;:100,&quot;color&quot;:&quot;red&quot;}}]}" id="46">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fillColor=none;strokeColor=#CC0000;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="40" y="1650" width="54" height="30" as="geometry" />
+            <mxGeometry x="220" y="1430" width="54" height="30" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="oqJNRUPJJ1QmuAUwu78V-46" value="" style="endArrow=none;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#7F00FF;strokeWidth=4;" edge="1" parent="1">
@@ -1468,45 +1468,45 @@
         </mxCell>
         <mxCell id="oqJNRUPJJ1QmuAUwu78V-47" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#7F00FF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;jumpStyle=gap;endFill=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1440" y="80" as="targetPoint" />
-            <mxPoint x="1440" y="180" as="sourcePoint" />
+            <mxPoint x="1140" y="80" as="targetPoint" />
+            <mxPoint x="1140" y="180" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <object label="40-400&lt;br&gt;Grønt" link="data:action/json,{&quot;actions&quot;:[{&quot;open&quot;:&quot;data:page/id,400&quot;},{&quot;highlight&quot;:{&quot;cells&quot;:[&quot;40-433&quot;],&quot;opacity&quot;:100,&quot;color&quot;:&quot;red&quot;}}]}" id="40-433">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fillColor=none;strokeColor=#CC0000;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="1410" y="180" width="54" height="30" as="geometry" />
+            <mxGeometry x="1110" y="180" width="54" height="30" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="P12AEa_FbH1Ne-UYglAV-46" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#7F00FF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;jumpStyle=gap;endFill=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1340" y="80" as="targetPoint" />
-            <mxPoint x="1340" y="180" as="sourcePoint" />
+            <mxPoint x="1040" y="80" as="targetPoint" />
+            <mxPoint x="1040" y="180" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <object label="2-400&lt;br&gt;Grønt" link="data:action/json,{&quot;actions&quot;:[{&quot;open&quot;:&quot;data:page/id,400&quot;},{&quot;highlight&quot;:{&quot;cells&quot;:[&quot;2-433&quot;],&quot;opacity&quot;:100,&quot;color&quot;:&quot;red&quot;}}]}" id="2-433">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fillColor=none;strokeColor=#CC0000;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="1310" y="180" width="54" height="30" as="geometry" />
+            <mxGeometry x="1010" y="180" width="54" height="30" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="txt_hD6engG7GksoWosK-48" value="SRV123006" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="210" width="54" height="30" as="geometry" />
+          <mxGeometry x="1010" y="210" width="54" height="30" as="geometry" />
         </mxCell>
         <mxCell id="txt_hD6engG7GksoWosK-49" value="RDS123003" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="210" width="54" height="30" as="geometry" />
+          <mxGeometry x="1110" y="210" width="54" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ofpsWfaT1fttW4B4jObG-46" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#7F00FF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;jumpStyle=gap;endFill=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1550" y="80" as="targetPoint" />
-            <mxPoint x="1550" y="180" as="sourcePoint" />
+            <mxPoint x="1466" y="1710" as="targetPoint" />
+            <mxPoint x="1466" y="1810" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <object label="125-400&lt;br&gt;Grønt" link="data:action/json,{&quot;actions&quot;:[{&quot;open&quot;:&quot;data:page/id,400&quot;},{&quot;highlight&quot;:{&quot;cells&quot;:[&quot;125-433&quot;],&quot;opacity&quot;:100,&quot;color&quot;:&quot;red&quot;}}]}" id="125-433">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fillColor=none;strokeColor=#CC0000;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="1520" y="180" width="54" height="30" as="geometry" />
+            <mxGeometry x="1436" y="1810" width="54" height="30" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="ofpsWfaT1fttW4B4jObG-48" value="TETRA-P1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="210" width="54" height="30" as="geometry" />
+          <mxGeometry x="1436" y="1840" width="54" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
