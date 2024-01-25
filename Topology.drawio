@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T07:01:41.939Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DGLS-Svwc2dp4ZH4pBYs" version="22.1.21" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2024-01-25T07:03:42.048Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="VoTfd_95j8qGRrYfoeOK" version="22.1.21" type="github" pages="22">
   <diagram id="srSarf_iVMtm-178fV4I" name="INFO">
     <mxGraphModel dx="1838" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -218,7 +218,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="400 Grønt" id="400">
-    <mxGraphModel dx="2129" dy="1851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3951" dy="2805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
@@ -1362,13 +1362,13 @@
             <mxPoint x="2293.3075" y="1958.7999999999997" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hk3uD4irykBrrzM_m1bL-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=gap;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.77;exitY=0.97;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=default;strokeColor=#7F00FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1">
+        <mxCell id="Hk3uD4irykBrrzM_m1bL-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=gap;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.77;exitY=0.97;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=default;strokeColor=#000099;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2374" y="2030" as="targetPoint" />
             <mxPoint x="2374.4424999999997" y="1958.7999999999997" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <object label="2-435&lt;br&gt;GK" link="data:action/json,{&quot;actions&quot;:[{&quot;open&quot;:&quot;data:page/id,433&quot;},{&quot;highlight&quot;:{&quot;cells&quot;:[&quot;Hk3uD4irykBrrzM_m1bL-13&quot;],&quot;opacity&quot;:100,&quot;color&quot;:&quot;red&quot;}}]}" id="Hk3uD4irykBrrzM_m1bL-13">
+        <object label="2-435&lt;br&gt;GK" link="data:action/json,{&quot;actions&quot;:[{&quot;open&quot;:&quot;data:page/id,435&quot;},{&quot;highlight&quot;:{&quot;cells&quot;:[&quot;2-435&quot;],&quot;opacity&quot;:100,&quot;color&quot;:&quot;red&quot;}}]}" id="2-435">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fillColor=none;strokeColor=#CC0000;dashed=1;strokeWidth=2;" vertex="1" parent="1">
             <mxGeometry x="2347" y="2030" width="54" height="30" as="geometry" />
           </mxCell>
@@ -1626,7 +1626,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="434" name="434 Lilla2">
-    <mxGraphModel dx="1250" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3124" dy="2805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
@@ -1673,7 +1673,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="435" name="435 GK">
-    <mxGraphModel dx="1562" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="625" dy="1496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
@@ -1688,6 +1688,23 @@
         <mxCell id="XYt-GtibV3jnaY6gBOpz-1" value="435 GK 172.18.2.x" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" parent="1" connectable="0" vertex="1">
           <mxGeometry x="820" y="517.0000000000002" as="geometry" />
         </mxCell>
+        <mxCell id="o8y6bCBM0aJz9VkyLbpl-2" value="" style="endArrow=none;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#000099;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="80" as="sourcePoint" />
+            <mxPoint x="1640" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Tu2mua5orPF-1RPNcur-1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#000099;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;jumpStyle=gap;endFill=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="-20" as="targetPoint" />
+            <mxPoint x="280" y="80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <object label="2-400&lt;br&gt;Grønt" link="data:action/json,{&quot;actions&quot;:[{&quot;open&quot;:&quot;data:page/id,400&quot;},{&quot;highlight&quot;:{&quot;cells&quot;:[&quot;2-435&quot;],&quot;opacity&quot;:100,&quot;color&quot;:&quot;red&quot;}}]}" id="2-435">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fillColor=none;strokeColor=#CC0000;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+            <mxGeometry x="252" y="-50" width="54" height="30" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
