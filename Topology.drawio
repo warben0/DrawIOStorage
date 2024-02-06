@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T09:17:59.064Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="8CnUGfkJQWKM4i2V2dW-" version="23.1.1" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2024-02-06T09:38:57.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="yFJ1dEl63MMyL-0RCChq" version="23.1.1" type="github" pages="23">
   <diagram id="srSarf_iVMtm-178fV4I" name="INFO">
     <mxGraphModel dx="1562" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -218,7 +218,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="400 Grønt" id="400">
-    <mxGraphModel dx="4732" dy="3214" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2315" dy="1948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
@@ -1848,6 +1848,9 @@
         </mxCell>
         <mxCell id="v-fHlXdejh8Yu105LFRN-5" value="Rødt" style="text;strokeColor=none;fillColor=default;html=1;fontSize=11;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;container=0;points=[];fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="820.9999999999998" y="1669" width="79" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="v-fHlXdejh8Yu105LFRN-6" value="&lt;div style=&quot;text-align: left; font-size: 24px;&quot;&gt;??????? Trenger hjelp fra IT&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 24px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=24;fontColor=default;fillColor=none;dashed=1;strokeColor=#000033;strokeWidth=4;fontStyle=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1520" width="790" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
