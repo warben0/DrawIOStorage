@@ -19,7 +19,7 @@
           <mxGeometry x="320" y="260" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="GzNEmD3VfXziyHX95NtM-17" value="Tapperi&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="shape=corner;whiteSpace=wrap;html=1;dx=180;dy=260;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-4">
-          <mxGeometry x="560" y="160" width="390" height="560" as="geometry" />
+          <mxGeometry x="560" y="160" width="390" height="590" as="geometry" />
         </mxCell>
         <mxCell id="GzNEmD3VfXziyHX95NtM-18" value="Tapperi prosess" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.corner_round_rect;dx=10;whiteSpace=wrap;labelPosition=center;align=center;direction=west;flipH=1;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-4">
           <mxGeometry x="630" y="160" width="320" height="100" as="geometry" />
@@ -92,6 +92,9 @@
         </mxCell>
         <mxCell id="GzNEmD3VfXziyHX95NtM-41" value="Bånd" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-4">
           <mxGeometry x="520" y="380" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GzNEmD3VfXziyHX95NtM-42" value="Emballasjelager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-4">
+          <mxGeometry x="740" y="670" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GzNEmD3VfXziyHX95NtM-3" value="Mesanin" parent="0" />
         <mxCell id="GzNEmD3VfXziyHX95NtM-6" value="Tak" parent="0" />
