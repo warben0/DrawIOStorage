@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="Hi8thBa9BpcaoAM9ut1s">
-    <mxGraphModel dx="1302" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="625" dy="327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,6 +17,24 @@
         </mxCell>
         <mxCell id="GzNEmD3VfXziyHX95NtM-14" value="Gamle palletering" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-4">
           <mxGeometry x="320" y="260" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GzNEmD3VfXziyHX95NtM-17" value="Tapperi" style="shape=corner;whiteSpace=wrap;html=1;dx=220;dy=220;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-4">
+          <mxGeometry x="560" y="160" width="360" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="GzNEmD3VfXziyHX95NtM-18" value="Prosessgardin" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.corner_round_rect;dx=10;whiteSpace=wrap;labelPosition=center;align=center;direction=west;flipH=1;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-4">
+          <mxGeometry x="630" y="160" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GzNEmD3VfXziyHX95NtM-19" value="Konteinervask" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-4">
+          <mxGeometry x="500" y="80" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GzNEmD3VfXziyHX95NtM-20" value="Tavlerom" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-4">
+          <mxGeometry x="500" y="160" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GzNEmD3VfXziyHX95NtM-21" value="Melkemottak inne" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-4">
+          <mxGeometry x="420" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GzNEmD3VfXziyHX95NtM-22" value="Service" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-4">
+          <mxGeometry x="390" y="80" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GzNEmD3VfXziyHX95NtM-3" value="Mesanin" parent="0" />
         <mxCell id="GzNEmD3VfXziyHX95NtM-6" value="Tak" parent="0" />
