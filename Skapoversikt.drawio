@@ -90,7 +90,7 @@
         </mxCell>
         <mxCell id="GzNEmD3VfXziyHX95NtM-5" value="Kjeller" parent="0" />
         <mxCell id="GzNEmD3VfXziyHX95NtM-4" value="Grunnplan" parent="0" />
-        <mxCell id="GzNEmD3VfXziyHX95NtM-79" value="Tapperi" style="shape=corner;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;dx=278;dy=509;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-4">
+        <mxCell id="GzNEmD3VfXziyHX95NtM-79" value="Tapperi" style="shape=corner;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;dx=241;dy=507;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-4">
           <mxGeometry x="1800" y="2327" width="1100" height="450" as="geometry" />
         </mxCell>
         <mxCell id="GzNEmD3VfXziyHX95NtM-76" value="Prosess" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.corner_round_rect;dx=6;whiteSpace=wrap;flipH=1;direction=south;fillColor=light-dark(#a4c5f4, #1d293b);strokeColor=#6c8ebf;labelPosition=center;align=center;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-4">
