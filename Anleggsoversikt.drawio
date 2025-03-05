@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.10">
   <diagram name="Page-1" id="Hi8thBa9BpcaoAM9ut1s">
-    <mxGraphModel dx="717" dy="-440" grid="0" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="7170" dy="3043" grid="0" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="GzNEmD3VfXziyHX95NtM-45" value="Base" parent="0" />
@@ -212,6 +212,12 @@
         </mxCell>
         <mxCell id="h_ZqSWhydHnjJ5OdPfgj-37" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Trucklading&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=west;" parent="GzNEmD3VfXziyHX95NtM-4" vertex="1">
           <mxGeometry x="2605" y="1827" width="295" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="S4rw2iDiVTAcTaovDXCU-40" value="Palletering nedbaner" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=west;fontSize=7;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-4">
+          <mxGeometry x="2463" y="2257" width="53" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="S4rw2iDiVTAcTaovDXCU-41" value="Sluse til lager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=west;fontSize=7;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-4">
+          <mxGeometry x="2397" y="2296" width="66" height="31" as="geometry" />
         </mxCell>
         <mxCell id="GzNEmD3VfXziyHX95NtM-3" value="Mesanin" parent="0" />
         <mxCell id="S4rw2iDiVTAcTaovDXCU-0" value="" style="shape=corner;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;direction=south;dx=20;dy=17;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-3">
