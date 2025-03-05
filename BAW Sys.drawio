@@ -1,50 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-09-11T06:33:56.149Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="NWGubapQDKNkUZ8gwvSV" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.16">
   <diagram name="Dataflyt" id="NGJzMoL1YaxwXaJGOSmv">
-    <mxGraphModel dx="893" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="R37Bo-__Ryh6URvWXUYt-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R37Bo-__Ryh6URvWXUYt-1" target="R37Bo-__Ryh6URvWXUYt-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="R37Bo-__Ryh6URvWXUYt-1" value="Forvalgsliste WinCC&lt;br&gt;&amp;lt;ferdig&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="340" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="R37Bo-__Ryh6URvWXUYt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R37Bo-__Ryh6URvWXUYt-3" target="R37Bo-__Ryh6URvWXUYt-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="R37Bo-__Ryh6URvWXUYt-3" value="Bestilling mulig på panel / Bestill knapp med artikkelinfo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="R37Bo-__Ryh6URvWXUYt-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R37Bo-__Ryh6URvWXUYt-7" target="R37Bo-__Ryh6URvWXUYt-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="R37Bo-__Ryh6URvWXUYt-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R37Bo-__Ryh6URvWXUYt-7" target="R37Bo-__Ryh6URvWXUYt-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R37Bo-__Ryh6URvWXUYt-7" value="Ved bestilling gis informasjon til prosess" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="560" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="R37Bo-__Ryh6URvWXUYt-9" value="Nåverende artikkel+bestilt sendes til IP.21 og dermed til lager" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000cc;" vertex="1" parent="1">
-          <mxGeometry x="340" y="680" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="R37Bo-__Ryh6URvWXUYt-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="R37Bo-__Ryh6URvWXUYt-12" target="R37Bo-__Ryh6URvWXUYt-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="R37Bo-__Ryh6URvWXUYt-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="R37Bo-__Ryh6URvWXUYt-12" target="R37Bo-__Ryh6URvWXUYt-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="R37Bo-__Ryh6URvWXUYt-12" value="Node 19 avvikles og sending av nåverende artikkel gjøres i Node 16 via forvalgsblokk eller liknende istedenfor, alternativ løsning er at lager henter det ut på helt ny måte via db for sys datalagring" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000cc;" vertex="1" parent="1">
-          <mxGeometry x="532.5" y="655" width="195" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="R37Bo-__Ryh6URvWXUYt-15" value="Data sendes samtidig til pakkehall i sys om oppstart på linjen som starter baner og RC/BT til linje" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000CC;" vertex="1" parent="1">
-          <mxGeometry x="560" y="550" width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="R37Bo-__Ryh6URvWXUYt-18" value="Ny MongoDB database opprettes for lagring av sys data som ventilstatuser, analoge signaler, artikkelinfo osv... data sendes direkte fra syspls til denne databasen" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#009900;" vertex="1" parent="1">
-          <mxGeometry x="70" y="340" width="170" height="160" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
