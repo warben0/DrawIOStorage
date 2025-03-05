@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.10">
   <diagram name="Page-1" id="Hi8thBa9BpcaoAM9ut1s">
-    <mxGraphModel dx="683" dy="-458" grid="0" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="-293" grid="0" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="GzNEmD3VfXziyHX95NtM-45" value="Base" parent="0" />
@@ -239,6 +239,27 @@
         <mxCell id="S4rw2iDiVTAcTaovDXCU-99" value="P7T6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="S4rw2iDiVTAcTaovDXCU-87">
           <mxGeometry x="2553" y="2616" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="S4rw2iDiVTAcTaovDXCU-104" value="xxxx" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="S4rw2iDiVTAcTaovDXCU-87">
+          <mxGeometry x="2755" y="2733" width="33" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="S4rw2iDiVTAcTaovDXCU-105" value="xxxx" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="S4rw2iDiVTAcTaovDXCU-87">
+          <mxGeometry x="2789" y="2733" width="33" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="S4rw2iDiVTAcTaovDXCU-106" value="xxxx" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="S4rw2iDiVTAcTaovDXCU-87">
+          <mxGeometry x="2823" y="2733" width="33" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="S4rw2iDiVTAcTaovDXCU-108" value="xxxx" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="S4rw2iDiVTAcTaovDXCU-87">
+          <mxGeometry x="2823" y="2699" width="33" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="S4rw2iDiVTAcTaovDXCU-109" value="xxxx" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="S4rw2iDiVTAcTaovDXCU-87">
+          <mxGeometry x="2823" y="2665" width="33" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="S4rw2iDiVTAcTaovDXCU-110" value="xxxx" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="S4rw2iDiVTAcTaovDXCU-87">
+          <mxGeometry x="2823" y="2631" width="33" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="S4rw2iDiVTAcTaovDXCU-111" value="xxxx" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="S4rw2iDiVTAcTaovDXCU-87">
+          <mxGeometry x="2823" y="2597" width="33" height="33" as="geometry" />
+        </mxCell>
         <object label="Grunnplan maskiner" id="S4rw2iDiVTAcTaovDXCU-47">
           <mxCell parent="0" />
         </object>
@@ -317,13 +338,13 @@
           <mxGeometry x="2687" y="2407" width="15" height="264" as="geometry" />
         </mxCell>
         <mxCell id="S4rw2iDiVTAcTaovDXCU-10" value="" style="shape=corner;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;direction=west;dx=11;dy=10;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-3">
-          <mxGeometry x="2762" y="2603" width="106" height="174" as="geometry" />
+          <mxGeometry x="2756" y="2590" width="112" height="187" as="geometry" />
         </mxCell>
         <mxCell id="S4rw2iDiVTAcTaovDXCU-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-3">
           <mxGeometry x="2885" y="2488" width="15" height="144" as="geometry" />
         </mxCell>
         <mxCell id="S4rw2iDiVTAcTaovDXCU-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;direction=south;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-3">
-          <mxGeometry x="2702" y="2592" width="183" height="11.5" as="geometry" />
+          <mxGeometry x="2702" y="2579" width="183" height="11.5" as="geometry" />
         </mxCell>
         <mxCell id="S4rw2iDiVTAcTaovDXCU-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;direction=south;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-3">
           <mxGeometry x="2454" y="2407" width="233" height="14" as="geometry" />
