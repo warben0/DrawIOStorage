@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.10">
   <diagram name="Page-1" id="Hi8thBa9BpcaoAM9ut1s">
-    <mxGraphModel dx="574" dy="-517" grid="0" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="869" dy="-358" grid="0" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="GzNEmD3VfXziyHX95NtM-45" value="Base" parent="0" />
@@ -175,14 +175,14 @@
         <mxCell id="h_ZqSWhydHnjJ5OdPfgj-19" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Div&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;textDirection=vertical-lr;" parent="GzNEmD3VfXziyHX95NtM-4" vertex="1">
           <mxGeometry x="2127" y="2638" width="32" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="h_ZqSWhydHnjJ5OdPfgj-21" value="&lt;div&gt;Vedlikehold&lt;/div&gt;" style="shape=corner;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=west;dx=44;dy=86;" parent="GzNEmD3VfXziyHX95NtM-4" vertex="1">
-          <mxGeometry x="2030" y="2568" width="97" height="119" as="geometry" />
+        <mxCell id="h_ZqSWhydHnjJ5OdPfgj-21" value="&lt;div&gt;Vedlikehold&lt;/div&gt;" style="shape=corner;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=west;dx=54;dy=87;" parent="GzNEmD3VfXziyHX95NtM-4" vertex="1">
+          <mxGeometry x="2014" y="2568" width="113" height="119" as="geometry" />
         </mxCell>
         <mxCell id="h_ZqSWhydHnjJ5OdPfgj-23" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Vedlikehold&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="GzNEmD3VfXziyHX95NtM-4" vertex="1">
-          <mxGeometry x="2030" y="2687" width="97" height="90" as="geometry" />
+          <mxGeometry x="2014" y="2687" width="113" height="90" as="geometry" />
         </mxCell>
         <mxCell id="h_ZqSWhydHnjJ5OdPfgj-24" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Emballasjelager&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="GzNEmD3VfXziyHX95NtM-4" vertex="1">
-          <mxGeometry x="1800" y="2568" width="230" height="209" as="geometry" />
+          <mxGeometry x="1800" y="2568" width="214" height="209" as="geometry" />
         </mxCell>
         <mxCell id="h_ZqSWhydHnjJ5OdPfgj-25" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Vedl&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="GzNEmD3VfXziyHX95NtM-4" vertex="1">
           <mxGeometry x="2127" y="2709" width="42" height="68" as="geometry" />
