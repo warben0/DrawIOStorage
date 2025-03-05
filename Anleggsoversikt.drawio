@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.10">
   <diagram name="Page-1" id="Hi8thBa9BpcaoAM9ut1s">
-    <mxGraphModel dx="574" dy="-517" grid="0" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="-293" grid="0" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="GzNEmD3VfXziyHX95NtM-45" value="Base" parent="0" />
@@ -327,16 +327,16 @@
           <mxGeometry x="2627" y="2684" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="S4rw2iDiVTAcTaovDXCU-148" value="PxTx" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=9;" vertex="1" parent="S4rw2iDiVTAcTaovDXCU-87">
-          <mxGeometry x="2441" y="2434" width="28" height="28" as="geometry" />
+          <mxGeometry x="2441" y="2434" width="31" height="31" as="geometry" />
         </mxCell>
         <mxCell id="S4rw2iDiVTAcTaovDXCU-149" value="PxTx" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=9;" vertex="1" parent="S4rw2iDiVTAcTaovDXCU-87">
-          <mxGeometry x="2469" y="2434" width="28" height="28" as="geometry" />
+          <mxGeometry x="2474" y="2434" width="31" height="31" as="geometry" />
         </mxCell>
         <mxCell id="S4rw2iDiVTAcTaovDXCU-150" value="PxTx" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=9;" vertex="1" parent="S4rw2iDiVTAcTaovDXCU-87">
-          <mxGeometry x="2497" y="2434" width="28" height="28" as="geometry" />
+          <mxGeometry x="2507" y="2434" width="31" height="31" as="geometry" />
         </mxCell>
         <mxCell id="S4rw2iDiVTAcTaovDXCU-151" value="PxTx" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=9;" vertex="1" parent="S4rw2iDiVTAcTaovDXCU-87">
-          <mxGeometry x="2525" y="2434" width="28" height="28" as="geometry" />
+          <mxGeometry x="2540" y="2434" width="31" height="31" as="geometry" />
         </mxCell>
         <mxCell id="S4rw2iDiVTAcTaovDXCU-152" value="PxTx" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=9;" vertex="1" parent="S4rw2iDiVTAcTaovDXCU-87">
           <mxGeometry x="2520" y="2383" width="28" height="28" as="geometry" />
@@ -345,7 +345,7 @@
           <mxGeometry x="2548" y="2383" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="S4rw2iDiVTAcTaovDXCU-154" value="PxTx" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=9;" vertex="1" parent="S4rw2iDiVTAcTaovDXCU-87">
-          <mxGeometry x="2553" y="2434" width="28" height="28" as="geometry" />
+          <mxGeometry x="2573" y="2434" width="31" height="31" as="geometry" />
         </mxCell>
         <mxCell id="S4rw2iDiVTAcTaovDXCU-155" value="P3Tx" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="S4rw2iDiVTAcTaovDXCU-87">
           <mxGeometry x="2586" y="2553" width="30" height="30" as="geometry" />
@@ -497,7 +497,7 @@
           <mxGeometry x="2569" y="2657" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="S4rw2iDiVTAcTaovDXCU-128" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;direction=south;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-3">
-          <mxGeometry x="2460" y="2434" width="17" height="8" as="geometry" />
+          <mxGeometry x="2462" y="2434" width="22" height="8" as="geometry" />
         </mxCell>
         <mxCell id="S4rw2iDiVTAcTaovDXCU-42" value="Mesanin skap" parent="0" />
         <object label="Andre etasje" id="S4rw2iDiVTAcTaovDXCU-4">
