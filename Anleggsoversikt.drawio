@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.0.16">
   <diagram name="Page-1" id="Hi8thBa9BpcaoAM9ut1s">
-    <mxGraphModel dx="819" dy="-408" grid="0" gridSize="14" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="372" dy="-637" grid="0" gridSize="14" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="GzNEmD3VfXziyHX95NtM-45" value="Base" parent="0" />
@@ -178,6 +178,21 @@
         </mxCell>
         <mxCell id="uO-Jlbd7GYopMe2RQ06U-74" value="Teknisk rom" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-5">
           <mxGeometry x="3969" y="1827" width="131" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="uO-Jlbd7GYopMe2RQ06U-76" value="+KK=360.003" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00994D;strokeColor=#82b366;fontSize=2;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-5">
+          <mxGeometry x="3924" y="2219" width="16" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="uO-Jlbd7GYopMe2RQ06U-77" value="+KK=360.002" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00994D;strokeColor=#82b366;fontSize=2;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-5">
+          <mxGeometry x="3694.5" y="2201" width="16" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="uO-Jlbd7GYopMe2RQ06U-78" value="+KK=360.006" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00994D;strokeColor=#82b366;fontSize=2;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-5">
+          <mxGeometry x="3711" y="2114" width="16" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="uO-Jlbd7GYopMe2RQ06U-79" value="+KK=360.004" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00994D;strokeColor=#82b366;fontSize=2;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-5">
+          <mxGeometry x="3710.5" y="2068" width="16" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="uO-Jlbd7GYopMe2RQ06U-80" value="+KK=360.001" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00994D;strokeColor=#82b366;fontSize=2;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-5">
+          <mxGeometry x="3994" y="1865" width="16" height="10" as="geometry" />
         </mxCell>
         <mxCell id="S4rw2iDiVTAcTaovDXCU-44" value="Kjeller skap" parent="0" visible="0" />
         <mxCell id="GzNEmD3VfXziyHX95NtM-4" value="Grunnplan" parent="0" />
