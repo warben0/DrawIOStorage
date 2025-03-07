@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.0.16">
   <diagram name="Page-1" id="Hi8thBa9BpcaoAM9ut1s">
-    <mxGraphModel dx="103" dy="-774" grid="0" gridSize="14" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="301" grid="0" gridSize="14" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="GzNEmD3VfXziyHX95NtM-45" value="Base" parent="0" />
@@ -115,7 +115,7 @@
         <mxCell id="S4rw2iDiVTAcTaovDXCU-39" value="R1T1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="GzNEmD3VfXziyHX95NtM-45" vertex="1">
           <mxGeometry x="2902" y="2425" width="32.314814814814824" height="32.314814814814824" as="geometry" />
         </mxCell>
-        <mxCell id="GzNEmD3VfXziyHX95NtM-5" value="Kjeller" parent="0" />
+        <mxCell id="GzNEmD3VfXziyHX95NtM-5" value="Kjeller" parent="0" visible="0" />
         <mxCell id="uO-Jlbd7GYopMe2RQ06U-75" value="Garderober" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-5">
           <mxGeometry x="3711" y="1827" width="258" height="154" as="geometry" />
         </mxCell>
@@ -179,7 +179,7 @@
         <mxCell id="uO-Jlbd7GYopMe2RQ06U-74" value="Teknisk rom" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-5">
           <mxGeometry x="3969" y="1827" width="131" height="121" as="geometry" />
         </mxCell>
-        <mxCell id="S4rw2iDiVTAcTaovDXCU-44" value="Kjeller skap" parent="0" />
+        <mxCell id="S4rw2iDiVTAcTaovDXCU-44" value="Kjeller skap" parent="0" visible="0" />
         <mxCell id="uO-Jlbd7GYopMe2RQ06U-81" value="+KK=360.003" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00994D;strokeColor=#82b366;fontSize=2;" vertex="1" parent="S4rw2iDiVTAcTaovDXCU-44">
           <mxGeometry x="3924" y="2219" width="16" height="10" as="geometry" />
         </mxCell>
