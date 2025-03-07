@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.0.16">
   <diagram name="Page-1" id="Hi8thBa9BpcaoAM9ut1s">
-    <mxGraphModel dx="441" dy="-589" grid="0" gridSize="14" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="-328" grid="0" gridSize="14" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="GzNEmD3VfXziyHX95NtM-45" value="Base" parent="0" />
@@ -117,7 +117,7 @@
         </mxCell>
         <mxCell id="GzNEmD3VfXziyHX95NtM-5" value="Kjeller" parent="0" />
         <mxCell id="uO-Jlbd7GYopMe2RQ06U-51" value="" style="shape=corner;whiteSpace=wrap;html=1;direction=east;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-5">
-          <mxGeometry x="3755" y="2009" width="214" height="111" as="geometry" />
+          <mxGeometry x="3755" y="1981" width="214" height="111" as="geometry" />
         </mxCell>
         <mxCell id="uO-Jlbd7GYopMe2RQ06U-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-5">
           <mxGeometry x="3650" y="2141" width="105" height="28" as="geometry" />
@@ -138,7 +138,7 @@
           <mxGeometry x="3650" y="2169" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="uO-Jlbd7GYopMe2RQ06U-45" value="" style="shape=corner;whiteSpace=wrap;html=1;direction=north;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-5">
-          <mxGeometry x="3755" y="2120" width="120" height="76" as="geometry" />
+          <mxGeometry x="3755" y="2092" width="120" height="104" as="geometry" />
         </mxCell>
         <mxCell id="uO-Jlbd7GYopMe2RQ06U-63" value="" style="shape=corner;whiteSpace=wrap;html=1;direction=north;fillColor=#d5e8d4;strokeColor=#82b366;flipH=1;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-5">
           <mxGeometry x="3751" y="2196" width="28" height="81" as="geometry" />
@@ -150,7 +150,7 @@
           <mxGeometry x="3831" y="2196" width="52" height="81" as="geometry" />
         </mxCell>
         <mxCell id="uO-Jlbd7GYopMe2RQ06U-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-5">
-          <mxGeometry x="3650" y="2009" width="105" height="132" as="geometry" />
+          <mxGeometry x="3650" y="1981" width="105" height="160" as="geometry" />
         </mxCell>
         <mxCell id="uO-Jlbd7GYopMe2RQ06U-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-5">
           <mxGeometry x="3826" y="2132" width="91" height="44" as="geometry" />
@@ -162,10 +162,10 @@
           <mxGeometry x="3917" y="2132" width="52" height="44" as="geometry" />
         </mxCell>
         <mxCell id="uO-Jlbd7GYopMe2RQ06U-70" value="" style="shape=corner;whiteSpace=wrap;html=1;direction=east;fillColor=#d5e8d4;strokeColor=#82b366;dx=61;dy=20;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-5">
-          <mxGeometry x="3650" y="2009" width="75" height="38" as="geometry" />
+          <mxGeometry x="3650" y="1981" width="75" height="38" as="geometry" />
         </mxCell>
         <mxCell id="uO-Jlbd7GYopMe2RQ06U-71" value="" style="shape=corner;whiteSpace=wrap;html=1;direction=east;fillColor=#d5e8d4;strokeColor=#82b366;dx=61;dy=20;flipV=1;" vertex="1" parent="GzNEmD3VfXziyHX95NtM-5">
-          <mxGeometry x="3650" y="1827" width="123" height="182" as="geometry" />
+          <mxGeometry x="3650" y="1827" width="123" height="154" as="geometry" />
         </mxCell>
         <mxCell id="S4rw2iDiVTAcTaovDXCU-44" value="Kjeller skap" parent="0" visible="0" />
         <mxCell id="GzNEmD3VfXziyHX95NtM-4" value="Grunnplan" parent="0" />
