@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Page-1" id="Hi8thBa9BpcaoAM9ut1s">
-    <mxGraphModel dx="1157" dy="-221" grid="0" gridSize="14" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="391" dy="-622" grid="0" gridSize="14" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="GzNEmD3VfXziyHX95NtM-45" value="Base" parent="0" />
@@ -750,7 +750,10 @@
         <mxCell id="f1xfAk1qgHKZJHJTZicj-22" value="&lt;div&gt;C7&lt;/div&gt;E1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#6c8ebf;fontSize=3;direction=south;verticalAlign=middle;fontColor=default;" vertex="1" parent="S4rw2iDiVTAcTaovDXCU-43">
           <mxGeometry x="2893" y="2421" width="6" height="7" as="geometry" />
         </mxCell>
-        <mxCell id="GzNEmD3VfXziyHX95NtM-3" value="Mesanin" parent="0" />
+        <mxCell id="f1xfAk1qgHKZJHJTZicj-33" value="+MG2-S02" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#6c8ebf;fontSize=2;direction=south;verticalAlign=middle;fontColor=default;" vertex="1" parent="S4rw2iDiVTAcTaovDXCU-43">
+          <mxGeometry x="2901" y="2302" width="6" height="7" as="geometry" />
+        </mxCell>
+        <mxCell id="GzNEmD3VfXziyHX95NtM-3" value="Mesanin" parent="0" visible="0" />
         <mxCell id="S4rw2iDiVTAcTaovDXCU-0" value="" style="shape=corner;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;direction=south;dx=20;dy=17;" parent="GzNEmD3VfXziyHX95NtM-3" vertex="1">
           <mxGeometry x="1780" y="2548" width="597" height="106" as="geometry" />
         </mxCell>
@@ -829,7 +832,7 @@
         <mxCell id="S4rw2iDiVTAcTaovDXCU-128" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;direction=south;" parent="GzNEmD3VfXziyHX95NtM-3" vertex="1">
           <mxGeometry x="2462" y="2434" width="22" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="S4rw2iDiVTAcTaovDXCU-42" value="Mesanin skap" parent="0" />
+        <mxCell id="S4rw2iDiVTAcTaovDXCU-42" value="Mesanin skap" parent="0" visible="0" />
         <mxCell id="f1xfAk1qgHKZJHJTZicj-28" value="M4.S2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6A6A3;strokeColor=#b85450;fontSize=3;direction=south;verticalAlign=middle;" vertex="1" parent="S4rw2iDiVTAcTaovDXCU-42">
           <mxGeometry x="2677" y="2435" width="6" height="4" as="geometry" />
         </mxCell>
