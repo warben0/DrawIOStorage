@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Page-1" id="Hi8thBa9BpcaoAM9ut1s">
-    <mxGraphModel dx="679" dy="-460" grid="0" gridSize="14" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="228" dy="-704" grid="0" gridSize="14" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="GzNEmD3VfXziyHX95NtM-45" value="Base" parent="0" />
@@ -865,6 +865,12 @@
         </mxCell>
         <mxCell id="BkniLI4ngL5Kys8e5dim-4" value="+MM6-M07" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#e6a6a3, #512d2b);strokeColor=#b85450;fontSize=3;direction=south;verticalAlign=middle;" vertex="1" parent="S4rw2iDiVTAcTaovDXCU-42">
           <mxGeometry x="2868" y="2684" width="6" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="BkniLI4ngL5Kys8e5dim-5" value="+MM4-S01" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#e6a6a3, #512d2b);strokeColor=#b85450;fontSize=3;direction=south;verticalAlign=middle;" vertex="1" parent="S4rw2iDiVTAcTaovDXCU-42">
+          <mxGeometry x="2702" y="2450" width="5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BkniLI4ngL5Kys8e5dim-6" value="+MM6-S02" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#e6a6a3, #512d2b);strokeColor=#b85450;fontSize=3;direction=south;verticalAlign=middle;" vertex="1" parent="S4rw2iDiVTAcTaovDXCU-42">
+          <mxGeometry x="2702" y="2519" width="5" height="10" as="geometry" />
         </mxCell>
         <object label="Andre etasje" id="S4rw2iDiVTAcTaovDXCU-4">
           <mxCell parent="0" visible="0" />
