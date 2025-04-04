@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.3">
   <diagram name="Page-1" id="Hi8thBa9BpcaoAM9ut1s">
-    <mxGraphModel dx="328" dy="-648" grid="0" gridSize="14" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="556" dy="-523" grid="0" gridSize="14" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="GzNEmD3VfXziyHX95NtM-45" value="Base" parent="0" />
@@ -835,7 +835,7 @@
         <mxCell id="nAXflOaqyRTZYbCRSx8y-1" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;direction=south;" parent="GzNEmD3VfXziyHX95NtM-3" vertex="1">
           <mxGeometry x="2465" y="2434" width="11" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="S4rw2iDiVTAcTaovDXCU-42" value="Mesanin skap" parent="0" visible="0" />
+        <mxCell id="S4rw2iDiVTAcTaovDXCU-42" value="Mesanin skap" parent="0" />
         <mxCell id="f1xfAk1qgHKZJHJTZicj-28" value="M4.S2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6A6A3;strokeColor=#FFFFFF;fontSize=3;direction=south;verticalAlign=middle;" parent="S4rw2iDiVTAcTaovDXCU-42" vertex="1">
           <mxGeometry x="2677" y="2435" width="6" height="4" as="geometry" />
         </mxCell>
@@ -871,6 +871,9 @@
         </mxCell>
         <mxCell id="BkniLI4ngL5Kys8e5dim-6" value="+MM6-S02" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#e6a6a3, #512d2b);strokeColor=#FFFFFF;fontSize=3;direction=south;verticalAlign=middle;" parent="S4rw2iDiVTAcTaovDXCU-42" vertex="1">
           <mxGeometry x="2702" y="2519" width="5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="CPMmVk-L5UrP0w__T8ej-1" value="+MG3-S16" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6A6A3;strokeColor=#FFFFFF;fontSize=3;direction=south;verticalAlign=middle;" vertex="1" parent="S4rw2iDiVTAcTaovDXCU-42">
+          <mxGeometry x="2297" y="2327" width="6" height="4" as="geometry" />
         </mxCell>
         <object label="Andre etasje" id="S4rw2iDiVTAcTaovDXCU-4">
           <mxCell parent="0" visible="0" />
