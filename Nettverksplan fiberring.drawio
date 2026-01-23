@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.4">
   <diagram name="Page-1" id="Hi8thBa9BpcaoAM9ut1s">
-    <mxGraphModel dx="1295" dy="-119" grid="0" gridSize="14" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="10360" dy="4840" grid="0" gridSize="14" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="GzNEmD3VfXziyHX95NtM-45" parent="0" value="Base" />
@@ -178,6 +178,9 @@
         </mxCell>
         <mxCell id="qLvKvIVMQSiz2tpQnaAT-22" parent="qLvKvIVMQSiz2tpQnaAT-0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Gamle VVS rom&lt;/font&gt;" vertex="1">
           <mxGeometry height="135" width="149" x="2696" y="2192" as="geometry" />
+        </mxCell>
+        <mxCell id="qLvKvIVMQSiz2tpQnaAT-23" parent="qLvKvIVMQSiz2tpQnaAT-0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font size=&quot;1&quot;&gt;Sluse&lt;/font&gt;" vertex="1">
+          <mxGeometry height="1741" width="55" x="2845" y="1036" as="geometry" />
         </mxCell>
         <mxCell id="GzNEmD3VfXziyHX95NtM-4" parent="0" value="Grunnplan" visible="0" />
         <mxCell id="h_ZqSWhydHnjJ5OdPfgj-34" parent="GzNEmD3VfXziyHX95NtM-4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=west;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;B3 rom&lt;/font&gt;" vertex="1">
