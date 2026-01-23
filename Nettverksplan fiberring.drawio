@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.4">
   <diagram name="Page-1" id="Hi8thBa9BpcaoAM9ut1s">
-    <mxGraphModel dx="3453" dy="1062" grid="0" gridSize="14" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="942" dy="-312" grid="0" gridSize="14" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="GzNEmD3VfXziyHX95NtM-45" parent="0" value="Base" />
@@ -218,6 +218,7 @@
         <mxCell id="S4rw2iDiVTAcTaovDXCU-41" parent="GzNEmD3VfXziyHX95NtM-4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=west;fontSize=7;" value="Sluse til lager" vertex="1">
           <mxGeometry height="31" width="66" x="2397" y="2296" as="geometry" />
         </mxCell>
+        <mxCell id="qLvKvIVMQSiz2tpQnaAT-0" parent="0" value="Untitled Layer" />
       </root>
     </mxGraphModel>
   </diagram>
