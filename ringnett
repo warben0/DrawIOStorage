@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
   <diagram name="Page-1" id="xjJpg5coj1mhPUBneGgK">
-    <mxGraphModel dx="1943" dy="1063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="648" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,6 +198,18 @@
         </mxCell>
         <mxCell id="Q7HaxXDEF91JjSGGk2x--51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MRM for ring 3" vertex="1">
           <mxGeometry height="30" width="60" x="1140" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7HaxXDEF91JjSGGk2x--52" parent="1" style="shape=mxgraph.rack.cisco.cisco_catalyst_4948_switch;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="15" width="161" x="560" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7HaxXDEF91JjSGGk2x--53" parent="1" style="shape=mxgraph.rack.cisco.cisco_catalyst_4948_switch;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="15" width="161" x="560" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7HaxXDEF91JjSGGk2x--54" parent="1" style="shape=mxgraph.rack.cisco.cisco_catalyst_4948_switch;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="15" width="161" x="560" y="575" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7HaxXDEF91JjSGGk2x--55" parent="1" style="shape=mxgraph.rack.cisco.cisco_catalyst_4948_switch;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="15" width="161" x="560" y="600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
