@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8" pages="2">
   <diagram name="Oversikt" id="xjJpg5coj1mhPUBneGgK">
-    <mxGraphModel dx="1110" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="942" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -199,11 +199,14 @@
         <mxCell id="zJFCG-0TWaJnsNkp1L7h-12" edge="1" parent="1" source="Q7HaxXDEF91JjSGGk2x--31" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.994;entryY=0.683;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#00C401;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;fillColor=#d5e8d4;" target="Q7HaxXDEF91JjSGGk2x--52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kwLtknHRK12MRvLrRE7X-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=default;" value="Ett punkt per switch i fiberring per skap min/maks, dette for å ikke få kompliserte sløyfer, undersløyfer som inneholder hele skap er ok ettersom det ikke pleier å være veldig mange per skap" vertex="1">
+          <mxGeometry height="70" width="196" x="1095" y="890" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="EmHRJa5dIgsU_Tq0VDvI" name="Fysisk">
-    <mxGraphModel dx="1110" dy="607" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4440" dy="2429" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
