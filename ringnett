@@ -209,7 +209,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EmHRJa5dIgsU_Tq0VDvI" name="Fysisk">
-    <mxGraphModel dx="251" dy="137" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="740" dy="405" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -597,6 +597,12 @@
         </mxCell>
         <mxCell id="gz9jHX6fCFjoMx3sjxIv-11" parent="62TIy6kKbRAzl6Z3RKmw-39" style="rounded=0;whiteSpace=wrap;html=1;fontSize=2;" value="r9&amp;nbsp; tank switch" vertex="1">
           <mxGeometry height="10" width="10" x="2647" y="2100" as="geometry" />
+        </mxCell>
+        <mxCell id="gz9jHX6fCFjoMx3sjxIv-12" parent="62TIy6kKbRAzl6Z3RKmw-39" style="rounded=0;whiteSpace=wrap;html=1;fontSize=2;" value="mottak r1-r3&lt;div&gt;switch&lt;/div&gt;" vertex="1">
+          <mxGeometry height="10" width="10" x="3256" y="2081" as="geometry" />
+        </mxCell>
+        <mxCell id="gz9jHX6fCFjoMx3sjxIv-13" parent="62TIy6kKbRAzl6Z3RKmw-39" style="rounded=0;whiteSpace=wrap;html=1;fontSize=2;" value="mottak r4-r6&lt;div&gt;switch&lt;/div&gt;" vertex="1">
+          <mxGeometry height="10" width="10" x="3364" y="2081" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
