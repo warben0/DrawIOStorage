@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="ftfcXDdKgTjun1dWWOci">
-    <mxGraphModel dx="2847" dy="2282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3655" dy="2727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="P76E926tTuKfA6Hhsuix-26" parent="0" value="Skap" />
@@ -170,9 +170,6 @@
         <mxCell id="P76E926tTuKfA6Hhsuix-50" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=top;verticalAlign=bottom;align=center;outlineConnect=0;shape=mxgraph.cisco.switches.layer_2_remote_switch;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;labelPosition=center;" value="ISVANN&lt;br&gt;(Teltonika TSW202)&lt;br&gt;140.80.1.7" vertex="1">
           <mxGeometry height="30" width="71" x="640" y="1223" as="geometry" />
         </mxCell>
-        <mxCell id="m8hoUnY5rOnAQhlBFxeg-166" edge="1" parent="1" source="P76E926tTuKfA6Hhsuix-51" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#F9ED00;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fillColor=#fff2cc;" target="m8hoUnY5rOnAQhlBFxeg-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="P76E926tTuKfA6Hhsuix-51" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=top;verticalAlign=bottom;align=center;outlineConnect=0;shape=mxgraph.cisco.switches.layer_2_remote_switch;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;labelPosition=center;" value="P2-TANKER&lt;br&gt;(Teltonika TSW202)&lt;br&gt;140.80.1.12" vertex="1">
           <mxGeometry height="30" width="71" x="191" y="1440" as="geometry" />
         </mxCell>
@@ -189,6 +186,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m8hoUnY5rOnAQhlBFxeg-164" edge="1" parent="1" source="P76E926tTuKfA6Hhsuix-38" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#F9ED00;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fillColor=#fff2cc;" target="P76E926tTuKfA6Hhsuix-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m8hoUnY5rOnAQhlBFxeg-166" edge="1" parent="1" source="P76E926tTuKfA6Hhsuix-51" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#F9ED00;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fillColor=#fff2cc;" target="m8hoUnY5rOnAQhlBFxeg-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m8hoUnY5rOnAQhlBFxeg-34" parent="0" value="IO" />
