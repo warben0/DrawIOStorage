@@ -53,7 +53,7 @@
         <mxCell id="m8hoUnY5rOnAQhlBFxeg-16" parent="m8hoUnY5rOnAQhlBFxeg-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" value="IKT Utstyr" vertex="1">
           <mxGeometry height="130" width="120" x="257.62" y="-240" as="geometry" />
         </mxCell>
-        <mxCell id="m8hoUnY5rOnAQhlBFxeg-17" parent="m8hoUnY5rOnAQhlBFxeg-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" value="IKT Utstyr" vertex="1">
+        <mxCell id="m8hoUnY5rOnAQhlBFxeg-17" parent="m8hoUnY5rOnAQhlBFxeg-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="IKT Utstyr" vertex="1">
           <mxGeometry height="178" width="188" x="31" y="11" as="geometry" />
         </mxCell>
         <mxCell id="1" parent="0" />
