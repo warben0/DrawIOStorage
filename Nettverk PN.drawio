@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="ftfcXDdKgTjun1dWWOci">
-    <mxGraphModel dx="3184" dy="2467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3655" dy="2727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="P76E926tTuKfA6Hhsuix-26" parent="0" value="Skap" />
@@ -26,13 +26,13 @@
           <mxGeometry height="320" width="210" x="-570" y="-160" as="geometry" />
         </mxCell>
         <mxCell id="m8hoUnY5rOnAQhlBFxeg-108" parent="0" value="Bør gjøres om" />
-        <mxCell id="m8hoUnY5rOnAQhlBFxeg-110" parent="m8hoUnY5rOnAQhlBFxeg-108" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DE3366;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontColor=#000000;" value="Bør gjøres om, burde ikke gå via IKT switch, ikke PN sertifisert" vertex="1">
+        <mxCell id="m8hoUnY5rOnAQhlBFxeg-110" parent="m8hoUnY5rOnAQhlBFxeg-108" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#6B2727,#CF96AC);strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontColor=#000000;" value="Bør gjøres om, burde ikke gå via IKT switch, ikke PN sertifisert" vertex="1">
           <mxGeometry height="120" width="260" x="-330" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="m8hoUnY5rOnAQhlBFxeg-111" parent="m8hoUnY5rOnAQhlBFxeg-108" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DE3366;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontColor=#000000;" value="Bør gjøres om" vertex="1">
+        <mxCell id="m8hoUnY5rOnAQhlBFxeg-111" parent="m8hoUnY5rOnAQhlBFxeg-108" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#6B2727,#CF96AC);strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontColor=#000000;" value="Bør gjøres om" vertex="1">
           <mxGeometry height="130" width="120" x="260" y="-560" as="geometry" />
         </mxCell>
-        <mxCell id="m8hoUnY5rOnAQhlBFxeg-163" parent="m8hoUnY5rOnAQhlBFxeg-108" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DE3366;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontColor=#000000;" value="Bør gjøres om, burde gå direkte til MG5-A08, dårlig PN bruk" vertex="1">
+        <mxCell id="m8hoUnY5rOnAQhlBFxeg-163" parent="m8hoUnY5rOnAQhlBFxeg-108" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#6B2727,#CF96AC);strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontColor=#000000;" value="Bør gjøres om, burde gå direkte til MG5-A08, dårlig PN bruk" vertex="1">
           <mxGeometry height="130" width="800" x="200" y="-60" as="geometry" />
         </mxCell>
         <mxCell id="m8hoUnY5rOnAQhlBFxeg-1" parent="0" value="Skal inn Vs. er inne" />
