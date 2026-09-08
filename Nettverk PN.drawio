@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="ftfcXDdKgTjun1dWWOci">
-    <mxGraphModel dx="2241" dy="1948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2005" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="P76E926tTuKfA6Hhsuix-26" parent="0" value="Skap" />
@@ -20,7 +20,7 @@
           <mxGeometry height="132" width="162" x="599" y="349" as="geometry" />
         </mxCell>
         <mxCell id="P76E926tTuKfA6Hhsuix-42" parent="P76E926tTuKfA6Hhsuix-26" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" value="+MK6-S06" vertex="1">
-          <mxGeometry height="102" width="112" x="619" y="729" as="geometry" />
+          <mxGeometry height="102" width="112" x="619" y="757" as="geometry" />
         </mxCell>
         <mxCell id="m8hoUnY5rOnAQhlBFxeg-1" parent="0" value="Skal inn Vs. er inne" />
         <mxCell id="m8hoUnY5rOnAQhlBFxeg-2" parent="m8hoUnY5rOnAQhlBFxeg-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" value="Skal legges inn" vertex="1">
@@ -36,7 +36,7 @@
           <mxGeometry height="130" width="120" x="137.62" y="-240" as="geometry" />
         </mxCell>
         <mxCell id="m8hoUnY5rOnAQhlBFxeg-10" parent="m8hoUnY5rOnAQhlBFxeg-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" value="Skal legges inn" vertex="1">
-          <mxGeometry height="100" width="110" x="620" y="730" as="geometry" />
+          <mxGeometry height="100" width="110" x="620" y="758" as="geometry" />
         </mxCell>
         <mxCell id="m8hoUnY5rOnAQhlBFxeg-11" parent="m8hoUnY5rOnAQhlBFxeg-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" value="Skal legges inn" vertex="1">
           <mxGeometry height="130" width="148" x="151" y="730" as="geometry" />
@@ -124,7 +124,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P76E926tTuKfA6Hhsuix-50" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=top;verticalAlign=bottom;align=center;outlineConnect=0;shape=mxgraph.cisco.switches.layer_2_remote_switch;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;labelPosition=center;" value="ISVANN&lt;br&gt;(Teltonika TSW202)" vertex="1">
-          <mxGeometry height="30" width="71" x="640" y="775" as="geometry" />
+          <mxGeometry height="30" width="71" x="640" y="803" as="geometry" />
         </mxCell>
         <mxCell id="P76E926tTuKfA6Hhsuix-51" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=top;verticalAlign=bottom;align=center;outlineConnect=0;shape=mxgraph.cisco.switches.layer_2_remote_switch;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;labelPosition=center;" value="P2-SURMELK&lt;br&gt;(Teltonika TSW202)" vertex="1">
           <mxGeometry height="30" width="71" x="191" y="1020" as="geometry" />
