@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="ftfcXDdKgTjun1dWWOci">
-    <mxGraphModel dx="5122" dy="2169" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7714" dy="3598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="P76E926tTuKfA6Hhsuix-26" parent="0" value="Skap/Områder" />
@@ -232,8 +232,8 @@
         <mxCell id="P76E926tTuKfA6Hhsuix-48" edge="1" parent="1" source="P76E926tTuKfA6Hhsuix-22" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#F9ED00;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fillColor=#fff2cc;" target="P76E926tTuKfA6Hhsuix-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="994.3" y="127.5" />
-              <mxPoint x="2840" y="127.5" />
+              <mxPoint x="994.25" y="460" />
+              <mxPoint x="2840" y="460" />
               <mxPoint x="2840" y="728" />
             </Array>
           </mxGeometry>
