@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="ftfcXDdKgTjun1dWWOci">
-    <mxGraphModel dx="8448" dy="4002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4371" dy="1755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="P76E926tTuKfA6Hhsuix-26" parent="0" value="Skap/Områder" />
@@ -16,7 +16,7 @@
         <mxCell id="P76E926tTuKfA6Hhsuix-40" parent="P76E926tTuKfA6Hhsuix-26" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" value="+MM4-S02" vertex="1">
           <mxGeometry height="331" width="310" x="410" y="639" as="geometry" />
         </mxCell>
-        <mxCell id="P76E926tTuKfA6Hhsuix-41" parent="P76E926tTuKfA6Hhsuix-26" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" value="+MK4-S10" vertex="1">
+        <mxCell id="P76E926tTuKfA6Hhsuix-41" parent="P76E926tTuKfA6Hhsuix-26" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" value="+MK4-S11" vertex="1">
           <mxGeometry height="171" width="162" x="1019" y="-142" as="geometry" />
         </mxCell>
         <mxCell id="P76E926tTuKfA6Hhsuix-42" parent="P76E926tTuKfA6Hhsuix-26" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" value="+MK6-S06" vertex="1">
