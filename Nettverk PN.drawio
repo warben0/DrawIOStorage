@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="ftfcXDdKgTjun1dWWOci">
-    <mxGraphModel dx="13588" dy="6836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4014" dy="1618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="P76E926tTuKfA6Hhsuix-26" parent="0" value="Skap/Områder" />
@@ -92,9 +92,6 @@
         </mxCell>
         <mxCell id="m8hoUnY5rOnAQhlBFxeg-14" parent="m8hoUnY5rOnAQhlBFxeg-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" value="Skal legges inn" vertex="1">
           <mxGeometry height="130" width="148" x="-2700" y="640" as="geometry" />
-        </mxCell>
-        <mxCell id="m8hoUnY5rOnAQhlBFxeg-15" parent="m8hoUnY5rOnAQhlBFxeg-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" value="Skal legges inn" vertex="1">
-          <mxGeometry height="130" width="148" x="-2849" y="640" as="geometry" />
         </mxCell>
         <mxCell id="m8hoUnY5rOnAQhlBFxeg-16" parent="m8hoUnY5rOnAQhlBFxeg-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" value="IKT Utstyr" vertex="1">
           <mxGeometry height="130" width="120" x="-587" y="-1169" as="geometry" />
@@ -227,6 +224,9 @@
         </mxCell>
         <mxCell id="iiBGvRjR7mdlSW9iqiWo-80" parent="m8hoUnY5rOnAQhlBFxeg-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" value="Skal legges inn" vertex="1">
           <mxGeometry height="140" width="160" x="2480" y="2019" as="geometry" />
+        </mxCell>
+        <mxCell id="iiBGvRjR7mdlSW9iqiWo-81" parent="m8hoUnY5rOnAQhlBFxeg-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" value="Eksisterer" vertex="1">
+          <mxGeometry height="130" width="147" x="-2849" y="640" as="geometry" />
         </mxCell>
         <mxCell id="1" parent="0" value="Switcher" />
         <mxCell id="P76E926tTuKfA6Hhsuix-47" edge="1" parent="1" source="P76E926tTuKfA6Hhsuix-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#F9ED00;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fillColor=#fff2cc;" target="P76E926tTuKfA6Hhsuix-35">
